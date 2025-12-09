@@ -9,7 +9,7 @@ Work in progress
 * How to use
 Run :
 #+BEGIN_SRC
-  ./open.sh
+  quickshell -p .
 #+END_SRC
 
 Or copy all files in =~/.config/quickshell=, and run :
