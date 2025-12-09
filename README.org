@@ -4,7 +4,7 @@
 * WARNING
 Work in progress
 
-*Install these dotfiles at your own risk and you are now responsible to fix all issues or errors as these are My own works built for me.*
+*Install these dotfiles at your own risk and you are now responsible to fix all issues or errors as these are my own works built for me.*
 
 * How to use
 Run :
