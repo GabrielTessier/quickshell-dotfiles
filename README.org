@@ -12,7 +12,7 @@ Run :
   ./open.sh
 #+END_SRC
 
-Or copy all files in `~/.config/quickshell`, and run :
+Or copy all files in =~/.config/quickshell=, and run :
 #+BEGIN_SRC
   quickshell
 #+END_SRC
